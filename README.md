@@ -5,4 +5,4 @@ Check the Fritzing for wiring. There is a lot going on, so I couldn't think of a
 There are some config options at the top of main.py.
 
 
-Blog post with more details and videos coming. I'll update here when published.
+[More details on my blog](https://nick.blog/2017/06/08/multiplexing-7-segment-common-cathode-displays-on-a-raspberry-pi/).
